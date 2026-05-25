@@ -166,6 +166,8 @@ W przypadku korzystania ze źródeł zewnętrznych należy podać je na końcu r
 - artykuły naukowe lub popularnonaukowe,
 - inne wiarygodne opracowania.
 
+Przygotowany raport należy przesłać na adres mailowy: **michal.maj@mail.umcs.pl**.
+
 ---
 
 # Korzystanie z narzędzi AI
